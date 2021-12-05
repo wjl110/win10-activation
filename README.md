@@ -33,6 +33,6 @@ Sponsoring developers:
 
 [WeChat sponsorship](WechatIMG12.jpeg)
 
-/WechatIMG12.jpeg
-
+/assets/WechatIMG12.jpeg
+[Alipay sponsorship](AlipayIMG13.jpeg)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
