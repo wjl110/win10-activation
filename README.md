@@ -23,8 +23,9 @@
 
 #给我转账#长按復枝此条消息，去支付👈首页进行搜索粘贴即可给我转账 lf:/6c606RT47Rm#
 
+赞助开发人员:
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](WechatIMG12.jpeg)
 
 /assets/images/WechatIMG12.jpeg
 
