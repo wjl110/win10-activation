@@ -1,5 +1,9 @@
 #win10一键激活工具下载-永久激活工具下载
 
+#use method:
+
+
+Click 8 hardware.zip 9 to download
 
 #使用方法:
 
@@ -8,6 +12,8 @@
 硬件.zip
 开始下载
 
+
+tips:
 
 
 👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌
@@ -23,10 +29,10 @@
 
 #给我转账#长按復枝此条消息，去支付👈首页进行搜索粘贴即可给我转账 lf:/6c606RT47Rm#
 
-赞助开发人员:
+Sponsoring developers:
 
-[Contribution guidelines for this project](WechatIMG12.jpeg)
+[WeChat sponsorship](WechatIMG12.jpeg)
 
-/assets/images/WechatIMG12.jpeg
+/WechatIMG12.jpeg
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
