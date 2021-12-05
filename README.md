@@ -24,6 +24,8 @@
 #给我转账#长按復枝此条消息，去支付👈首页进行搜索粘贴即可给我转账 lf:/6c606RT47Rm#
 
 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 /assets/images/WechatIMG12.jpeg
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
