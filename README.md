@@ -31,12 +31,11 @@ tips:
 
 Sponsoring developers:
 
-![WeChat sponsorship](WechatIMG12.jpeg)
+![WeChat sponsorship](paypal.jpeg)
 
 
 
 
-![Alipay sponsorship](AlipayIMG13.jpeg)
 
 
 
