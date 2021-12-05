@@ -31,7 +31,7 @@ tips:
 
 Sponsoring developers:
 
-![WeChat sponsorship](paypal.jpeg)
+![WeChat sponsorship](paypal.jpg)
 
 
 
