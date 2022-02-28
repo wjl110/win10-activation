@@ -1,21 +1,18 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+# win10一键激活工具下载-永久激活工具下载
 
-
-
-#win10一键激活工具下载-永久激活工具下载
-
-#use method:
+# use method:
 
 
 Click 8 hardware.zip 9 to download
 
-#使用方法:
+# 使用方法:
 
 
-点击
-硬件.zip
-数字.zip
-开始下载
+<点击>
+<硬件.zip>
+<数字.zip>
+<开始下载>
+<解压缩>
 
 ## 建议两个版本都下载
 
@@ -30,6 +27,7 @@ tips:
 如果工具帮助到你了,欢迎👏star
 
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Sponsoring developers:
 
